@@ -1,21 +1,3 @@
-Carnegie Mellon University
-assessmentGradebook
-clear_allJobs
-Jaissruti Nanthakumararrow_drop_down
-Jaissruti Nanthakumar
-account_circleAccount
-assignment_indCourse Profile
-exit_to_appLog out
-assessmentGradebook
-clear_allJobs
-home ITCS-5152-Fall-2021 (Fall 2021) The Original Problem Annotate Submission
-Submission Version 5 for The Original Problem (jnanthak@uncc.edu)
-Summary
-Nothing to summarize yet.
-
-
-jnanthak@uncc.edu_5_handin.py
-COLLAPSE ALL EXPAND ALL
 import numpy as np
 from math import exp
 
@@ -78,4 +60,3 @@ def classify(im):
        return 'cylinder'
     else:
        return 'brick'
-Autolab Project · Contact · GitHub · Facebook · Logoutv2.2.1
